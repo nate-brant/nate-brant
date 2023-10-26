@@ -1,4 +1,4 @@
-Hi, I’m @nate-brant, I'm a software engineer with an interest in AI and computer vision.
+Hi, I’m @nate-brant, I'm a software engineer. I make stuff sometimes.
 
 <!---
 nate-brant/nate-brant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
